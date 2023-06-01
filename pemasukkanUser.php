@@ -51,7 +51,7 @@ $pemasukkan = query("SELECT * FROM pemasukkan WHERE username = '$username' LIMIT
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="shortcut icon" href="img/icon.png">
-    <title>Dompet-Qu - Pemasukkan</title>
+    <title>Harianku - Pemasukkan</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-reboot.min.css">
@@ -68,8 +68,8 @@ $pemasukkan = query("SELECT * FROM pemasukkan WHERE username = '$username' LIMIT
 <body>
     <div class="header">
         <img src="img/icon.png" width="25px" height="25px" class="float-left logo-fav">
-        <h3 class="text-secondary font-weight-bold float-left logo">Dompet</h3>
-        <h3 class="text-secondary float-left logo2">- Qu</h3>
+        <h3 class="text-secondary font-weight-bold float-left logo">Harian</h3>
+        <h3 class="text-secondary float-left logo2">- Ku</h3>
         <a href="administrator">
             <div class="logout">
                 <i class="fas fa-sign-out-alt float-right log"></i>

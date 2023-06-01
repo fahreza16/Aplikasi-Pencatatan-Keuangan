@@ -53,7 +53,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Login | Dompet-Qu</title>
+  <title>Login | Harianku</title>
   <link rel="shortcut icon" href="img/icon.png">
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -72,7 +72,7 @@
       font-family: "roboto", sans-serif;
     }
     .img {
-      background: url('img/login.png');
+      background: url('img/log.png');
       background-size: cover;
       background-position: center;
       height: 100%;
@@ -103,7 +103,7 @@
                 <div class="login">
                   <h4>LOGIN</h4>
                 </div>
-                <div class="sub-title">Registrasi untuk gunakan Dompet - Qu</div>
+                <div class="sub-title">Registrasi untuk gunakan Harianku</div>
               </div>
 
               <div class="icon-user">
@@ -158,7 +158,7 @@
                 <div class="signup">
                   <h4>SIGN UP</h4>
                 </div>
-                <div class="sub-title">Login untuk gunakan Dompet - Qu</div>
+                <div class="sub-title">Login untuk gunakan Harianku</div>
               </div>
               <div class="icon-user">
                 <h4 class="fa fa-user"></h4>

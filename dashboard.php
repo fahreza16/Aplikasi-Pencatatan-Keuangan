@@ -92,7 +92,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="img/icon.png">
+    <link rel="shortcut icon" href="img/logoo.png">
     <title>Harianku - Dashboard</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -119,7 +119,7 @@
 
 <body>
     <div class="header">
-        <img src="img/icon.png" width="25px" height="25px" class="float-left logo-fav">
+        <img src="img/logoo.png" width="25px" height="25px" class="float-left logo-fav">
         <h3 class="text-secondary font-weight-bold float-left logo">Harian</h3>
         <h3 class="text-secondary float-left logo2">- ku</h3>
         <a href="logout">
@@ -381,7 +381,7 @@
                             <div class="row tampil">
                                 <div class="col-lg-5 rek">
                                     <div class="konten-rekening border-right">
-                                        <p>Sisa saldo</p>
+                                        <p>Saldo Rekening</p>
                                         <h3>Rp. <?= $saldoRekFix ?></h3>
                                         <button class="btn btn-lg add-rekening btn-prev" data-toggle="modal" data-target="#exampleModalCenter"><i class="fas fa-dollar-sign"></i>
                                             Kelola rekening</button>

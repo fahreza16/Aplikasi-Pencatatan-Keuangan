@@ -18,7 +18,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="shortcut icon" href="img/icon.png">
+    <link rel="shortcut icon" href="img/logoo.png">
     <title>Harian ku</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -51,7 +51,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top main-nav" id="mainNav">
         <div class="container">
             <a class="js-scroll-trigger" href="#page-top">
-                <img src="img/logou.png" width="20px" style="margin-right: 10px; margin-bottom: 2px;">
+                <img src="img/logoo.png" width="20px" style="margin-right: 10px; margin-bottom: 2px;">
             </a>
             <a class="navbar-brand js-scroll-trigger" href="#page-top">Harianku</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
@@ -93,7 +93,7 @@
     <!-- features -->
     <section id="features" class="bg-light">
         <div class=" container konten2">
-            <div class="garis text-center">About</div>
+            <div class="garis text-center">About & Features</div>
 
             <div class="col-lg-12 foot-fitur">
                 <h4 class="headline text-center">Harianku</h4>
@@ -107,7 +107,7 @@
                 <div class="col-lg-6 fiturs">
                     <div class="gbr">
                         <div class="box">
-                            <img src="img/transaksi.jpg" class="gambar-fitur img" width="100%">
+                            <img src="img/tf.jpg" class="gambar-fitur img" width="100%">
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                 <div class="col-lg-6 fiturs">
                     <div class="gbr">
                         <div class="box">
-                            <img src="img/rekening.jpg" class="gambar-fitur img" width="100%">
+                            <img src="img/rek.jpg" class="gambar-fitur img" width="100%">
                         </div>
                     </div>
                 </div>
@@ -141,7 +141,7 @@
                 <div class="col-lg-6 fiturs">
                     <div class="gbr">
                         <div class="box">
-                            <img src="img/monitor.jpg" class="gambar-fitur img" width="100%">
+                            <img src="img/mon.jpg" class="gambar-fitur img" width="100%">
                         </div>
                     </div>
                 </div>
@@ -278,8 +278,8 @@
                     <h5> <b>Main</b> </h5>
                     <ul class="list-unstyled">
                         <li> <a href="#home" class="js-scroll-trigger foot-link">Home</a> </li>
-                        <li> <a href="#features" class="js-scroll-trigger foot-link">Features</a> </li>
-                        <li> <a href="#about" class="js-scroll-trigger foot-link">About Us</a> </li>
+                        <li> <a href="#features" class="js-scroll-trigger foot-link">About & Features</a> </li>
+                        <li> <a href="#about" class="js-scroll-trigger foot-link">Tips</a> </li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-6 p-3">
@@ -291,7 +291,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 p-3">
                     <h5> <b>About</b> </h5>
-                    <p class="mb-0">Aplikasi Dompet-Qu dilengkapi dengan fitur menarik yang dapat mempermudah user mengelola keuangannya.</p>
+                    <p class="mb-0">Aplikasi Harianku dilengkapi dengan fitur menarik yang dapat mempermudah user mengelola keuangannya.</p>
                 </div>
                 <div class="col-lg-3 col-md-6 p-3">
                     <h5> <b>Follow us</b> </h5>
